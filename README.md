@@ -2,8 +2,8 @@
 
 Annaelena Valentini
 
-<p align="center">
-  <img src="ProfilePicValentini.jpg" alt="" width="100"/>
+<p align="left">
+  <img src="ProfilePicValentini.jpg" alt="" width="120"/>
 </p>
 
 Post-doctoral Research Fellow, Università di Firenze  
