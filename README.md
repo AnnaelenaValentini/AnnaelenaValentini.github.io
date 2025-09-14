@@ -18,4 +18,4 @@ I am a researcher in economics. My research interests include:
 
 # Curriculum Vitae  
 
-[Download my CV in PDF](CV_Valentini_092025.pdf)
+[Have a look at my CV](CV_Valentini_092025.pdf)
