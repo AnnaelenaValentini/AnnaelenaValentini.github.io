@@ -2,6 +2,8 @@
 
 Annaelena Valentini
 
+![Foto professionale](ProfilePicValentini.jpg)
+
 Post-doctoral Research Fellow, Università di Firenze  
 Progetto: *Social policies for adaptation and transition in Tuscany*  
 
